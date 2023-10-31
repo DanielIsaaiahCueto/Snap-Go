@@ -1,0 +1,105 @@
+
+.box1 {
+    background-color: #fff;
+    height: 600px;
+    border-radius: 8px;
+    border: 3px solid #2598BD;
+}
+
+.box1 .square {
+    height: 100px;
+    width: 100px;
+    background-color: #2598BD;
+    position: absolute;
+    top: 10px;
+    left: 390px;
+    border-radius: 8px;
+    text-align: center;
+    line-height: 95px;
+    color: #fff;
+}
+
+.SKU,
+.category,
+.type,
+.prod-name,
+.description,
+.meas,
+.prod-price,
+.prescription {
+    margin: 13px 0px 20px 20px;
+    padding: 2px 0px 0px 5px;
+}
+
+#sku,
+#cat,
+#ty,
+#product_name,
+#measurement,
+#product_price {
+    border-color: #2598BD;
+    border-radius: 15px;
+    margin-left: 0px;
+}
+
+#desc,
+#prescription {
+    border-color: #2598BD;
+    border-radius: 15px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2598BD;
+    border-radius: 8px;
+}
+
+.butt {
+    background-color: transparent;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: #fff;
+    color: #fff;
+}
+
+.butt:hover {
+    background-color: #1CFEBA;
+    border: 0px;
+    color: #2598BD;
+}
+
+.box2 {
+    height: 515px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 8px;   
+    background-color: #fff;
+    
+}
+
+th, td {
+    border: 3px solid #2598BD;
+    text-align: center;
+    padding: 33px 10px 33px 10px;  
+}
+
+.td-butt button{
+    margin: 0px 10px 0px 0px;
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 15px;
+    border-color: #2598BD;
+}
+
+.td-butt button:hover {
+    border: 0px;
+    background-color: #2598BD;
+    color: #fff;
+    padding: 6px;
+}
