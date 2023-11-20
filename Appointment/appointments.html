@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
     <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
-    <link rel="stylesheet" href="./assets/css/inbox.css">
-    <title>Inbox</title>
+    <link rel="stylesheet" href="./assets/css/appointments.css">
+    <title>Appointments</title>
     <link rel="icon" type="image/x-icon" href="./assets/images/dashboard/logo.png">
 </head>
 
@@ -33,7 +33,7 @@
                     <span class="las la-home"></span>
                     <h3>Home</h3>
                 </a>
-                <a href="inbox.html" class="active">
+                <a href="inbox.html">
                     <span class="las la-envelope"></span>
                     <h3>Inbox</h3>
                 </a>
@@ -45,7 +45,7 @@
                     <span class="las la-users"></span>
                     <h3>Register</h3>
                 </a>
-                <a href="appointments.html">
+                <a href="appointments.html" class="active">
                     <span class="las la-calendar"></span>
                     <h3>Appointments</h3>
                 </a>
@@ -54,8 +54,8 @@
                     <h3>History</h3>
                 </a>
                 <a href="profile.html">
-                    <span class="las la-user-circle"></span>
-                    <h3>Profile</h3>
+                  <span class="las la-user-circle"></span>
+                  <h3>Profile</h3>
                 </a>
                 <a href="#">
                     <span class="las la-door-open"></span>
@@ -69,9 +69,8 @@
         <main>
             <div class="top-nav">
                 <div class="title">
-                    <h1>Inbox</h1>
+                    <h1>Appointments</h1>
                 </div>
-                
                 <div class="nav">
                     <button id="menu-btn">
                         <span class="material-icons-sharp">
@@ -96,45 +95,83 @@
                             <img src="./assets/images/dashboard/profile-1.jpg">
                         </div>
                     </div>
-                </div>
-           </div>
-            <div class="main-body">
-                <div class="inbox-header">
-                    <div class="search_wrap search_wrap_3">
-                        <div class="search_box">
-                            <input type="text" class="input" placeholder="Search...">
-                            <div class="btn btn_common">
-                                <i class="las la-search"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="filter">
-                        <i class="las la-filter"></i>
-                    </div>
-                </div>
+                </div>    
                 
-            
-                <table>
-                    <thead>
-                        <tr>
-                            <!---<th>Profile</th>
-                            <th>User ID</th>
-                            <th>Password</th>--->
-                        </tr>
-                    </thead>
-                    <tbody></tbody>
-                </table>
+            </div>
+            <div class="calendar-container">
+              <div class="left">
+                <div class="calendar">
+                  <div class="month">
+                    <i class="fas fa-angle-left prev"></i>
+                    <div class="date">december 2015</div>
+                    <i class="fas fa-angle-right next"></i>
+                  </div>
+                  <div class="weekdays">
+                    <div>Sun</div>
+                    <div>Mon</div>
+                    <div>Tue</div>
+                    <div>Wed</div>
+                    <div>Thu</div>
+                    <div>Fri</div>
+                    <div>Sat</div>
+                  </div>
+                  <div class="days"></div>
+                  <div class="goto-today">
+                    <div class="goto">
+                      <input type="text" placeholder="mm/yyyy" class="date-input" />
+                      <button class="goto-btn">Go</button>
+                    </div>
+                    <button class="today-btn">Today</button>
+                  </div>
                 </div>
-        </div>
-
-
-        </main>
+              </div>
+              <div class="right">
+                <div class="today-date">
+                  <div class="event-day">wed</div>
+                  <div class="event-date">12th december 2022</div>
+                </div>
+                <div class="events"></div>
+                <div class="add-event-wrapper">
+                  <div class="add-event-header">
+                    <div class="title">Add Event</div>
+                    <i class="fas fa-times close"></i>
+                  </div>
+                  <div class="add-event-body">
+                    <div class="add-event-input">
+                      <input type="text" placeholder="Event Name" class="event-name" />
+                    </div>
+                    <div class="add-event-input">
+                      <input
+                        type="text"
+                        placeholder="Event Time From"
+                        class="event-time-from"
+                      />
+                    </div>
+                    <div class="add-event-input">
+                      <input
+                        type="text"
+                        placeholder="Event Time To"
+                        class="event-time-to"
+                      />
+                    </div>
+                  </div>
+                  <div class="add-event-footer">
+                    <button class="add-event-btn">Add Event</button>
+                  </div>
+                </div>
+              </div>
+              <button class="add-event">
+                <i class="fas fa-plus"></i>
+              </button>
+            </div>
+        </main>    
         <!-- End of Main Content -->
+
 
     </div>
 
-    
-    <script src="./assets/js/register.js"></script>
+    <script src="./assets/js/orders.js"></script>
+    <script src="./assets/js/appointments.js"></script>
 </body>
 
 </html>
