@@ -33,3 +33,16 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Originality        	|  	| ✅ 	|   	|   	|
 | Overall Impression 	| ✅  	|   	|   	|   	|
 
+## Peer Review
+
+
+## 🧾 Contributors
+
+**IT2102**
+
+| Names            	   | Link	                                                |
+|--------------------------| ---------------------------------------------------------- |
+| Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/21-02497)              |
+| Cueto, Daniel Isaaiah T. |  [@Daniel-Isaaiah](https://github.com/DanielIsaaiahCueto)  |  
+| Dilag, Rod Vincent A.   |  [@Rod-Vincent](https://github.com/)            | 
+| Sanchez, Kim William B.  |  [@Kim-William](https://github.com/21-05298)               |
