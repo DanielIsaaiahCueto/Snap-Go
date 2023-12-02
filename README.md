@@ -19,3 +19,17 @@ The Barangay Health Management System is an essential component of local communi
 1.	To reduce manual data entry errors and improve the accuracy and completeness of electronic health records by employing standardized templates and user-friendly interfaces
 2.	To implement QR code labeling for medication packaging and inventory items, allowing for efficient tracking and management
 3.	To enable patients to check in and schedule appointments by scanning their unique QR codes at the health unit, reducing waiting times and improving appointment management.
+
+## 📝 Self Assesment
+
+The group evaluated the system using the provided grading rubric, which resulted in the following:
+
+| Metric             	| 4 	| 3 	| 2 	| 1 	|
+|--------------------	|---	|---	|---	|---	|
+| Code Reusability   	|   	| ✅ 	|       |   	|
+| Maintainability    	|✅ 	|  	|   	|   	|
+| Scalability        	| ✅ 	|   	|   	|   	|
+| Execution          	|✅  	|  	|   	|   	|
+| Originality        	|  	| ✅ 	|   	|   	|
+| Overall Impression 	| ✅  	|   	|   	|   	|
+
