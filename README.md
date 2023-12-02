@@ -1,4 +1,4 @@
-## Snap&Go: A Barangay Health Management System for Brgy. Sambat, San Pascual with Integration of QR Code Scanner Device Technology
+# Snap&Go: A Barangay Health Management System for Brgy. Sambat, San Pascual with Integration of QR Code Scanner Device Technology
 
 ## 📝 Project Description
 
@@ -12,4 +12,4 @@ The Barangay Health Management System is an essential component of local communi
 *	SOS.
 
 
-# 📝 The features of this program from an administrator perspective are the following. Through this system, the administrator is mainly in-charge in transcribing patients’ records, inform upcoming consultations and vaccination program to patients through calendar, listing and removing products, managing users, and review SOS alerts.
+ 📝 The features of this program from an administrator perspective are the following. Through this system, the administrator is mainly in-charge in transcribing patients’ records, inform upcoming consultations and vaccination program to patients through calendar, listing and removing products, managing users, and review SOS alerts.
