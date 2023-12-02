@@ -42,7 +42,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 | Names            	   | Link	                                                |
 |--------------------------| ---------------------------------------------------------- |
-| Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/21-02497)              |
+| Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/johnneldine-abrahan)              |
 | Cueto, Daniel Isaaiah T. |  [@Daniel-Isaaiah](https://github.com/DanielIsaaiahCueto)  |  
 | Dilag, Rod Vincent A.   |  [@Rod-Vincent](https://github.com/rdvncntdlg)            | 
 | Sanchez, Kim William B.  |  [@Kim-William](https://github.com/21-05298)               |
