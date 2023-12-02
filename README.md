@@ -13,3 +13,9 @@ The Barangay Health Management System is an essential component of local communi
 
 
  The features of this program from an administrator perspective are the following. Through this system, the administrator is mainly in-charge in transcribing patients’ records, inform upcoming consultations and vaccination program to patients through calendar, listing and removing products, managing users, and review SOS alerts.
+
+
+# 🎯 Objectives
+1.	To reduce manual data entry errors and improve the accuracy and completeness of electronic health records by employing standardized templates and user-friendly interfaces
+2.	To implement QR code labeling for medication packaging and inventory items, allowing for efficient tracking and management
+3.	To enable patients to check in and schedule appointments by scanning their unique QR codes at the health unit, reducing waiting times and improving appointment management.
