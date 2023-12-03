@@ -26,11 +26,11 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 | Metric             	| 4 	| 3 	| 2 	| 1 	|
 |--------------------	|---	|---	|---	|---	|
-| HTML   	|   	| ✅ 	|       |   	|
-| CSS    	|✅ 	|  	|   	|   	|
-| JavaScript       	| ✅ 	|   	|   	|   	|
-| Creativity         	|✅  	|  	|   	|   	|
-| Overall       	|  	| ✅ 	|   	|   	|
+| HTML               	|✅  |  	|    |   	|
+| CSS                	|✅  |  	|   	|   	|
+| JavaScript       	  |✅  |    |   |   	|
+| Creativity         	|✅  |  	|   	|   	|
+| Overall       	     |✅  | 	 |   	|   	|
 
 
 ## Peer Evaluation
