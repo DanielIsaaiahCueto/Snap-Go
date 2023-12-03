@@ -33,7 +33,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Originality        	|  	| ✅ 	|   	|   	|
 | Overall Impression 	| ✅  	|   	|   	|   	|
 
-## Peer Review
+## Peer Evaluation
 
 
 ## 📋 Contributors
