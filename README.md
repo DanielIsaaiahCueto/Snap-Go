@@ -14,7 +14,7 @@ The Barangay Health Management System is an essential component of local communi
 
  The features of this program from an administrator perspective are the following. Through this system, the administrator is mainly in-charge in transcribing patients’ records, inform upcoming consultations and vaccination program to patients through calendar, listing and removing products, managing users, and review SOS alerts.
 
- **Sustainable Development Goal Alignment**
+  **♻️ Sustainable Development Goal Alignment**
 
  
 
