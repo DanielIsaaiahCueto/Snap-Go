@@ -16,6 +16,11 @@ The Barangay Health Management System is an essential component of local communi
 
   **♻️ Sustainable Development Goal Alignment**
 
+  1. Good Health and Well-being
+	- Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all.
+  2. Partnerships for The Goals
+	- Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships.
+
  
 
 
