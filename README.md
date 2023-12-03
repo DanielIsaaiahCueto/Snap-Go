@@ -33,7 +33,7 @@ The Barangay Health Management System is an essential component of local communi
 
 The group evaluated the system using the provided grading rubric, which resulted in the following:
 
-| Metric             	| 4 	| 3 	| 2 	| 1 	|
+| Metric             	| 4 - Excellent	| 3 - Good	| 2 - Poor 	| 1 - Bad	|
 |--------------------	|---	|---	|---	|---	|
 | HTML               	|✅  |  	|    |   	|
 | CSS                	|✅  |  	|   	|   	|
