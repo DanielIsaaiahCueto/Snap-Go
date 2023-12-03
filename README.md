@@ -1,6 +1,7 @@
 
 ![371361282_1061214935026755_1334799756905398240_n](https://github.com/DanielIsaaiahCueto/Snap-and-Go_Team8-IT3104/assets/114321964/c4cbb109-d893-4fc1-ae97-1915210ce9b0)
 
+#
 
 # 💊 Snap&Go: A Barangay Health Management System for Brgy. Sambat, San Pascual with Integration of QR Code Scanner Device Technology
 
