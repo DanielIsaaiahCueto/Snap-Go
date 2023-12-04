@@ -3,7 +3,8 @@
 
 #
 
-# Snap&Go: A Barangay Health Management System for Brgy. Sambat, San Pascual with Integration of QR Code Scanner Device Technology
+# ![EmojiSize](https://github.com/DanielIsaaiahCueto/Snap-and-Go_Team8-IT3104/assets/114321964/aa009742-df8d-4b2c-9f26-a11bcf5ae644)
+Snap&Go: A Barangay Health Management System for Brgy. Sambat, San Pascual with Integration of QR Code Scanner Device Technology
 
 # 📝 Project Description
 
