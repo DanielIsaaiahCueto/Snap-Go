@@ -58,5 +58,15 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 Check out our video presentation [here](https://youtu.be/nvWdnAnxvBU)
 
+# Contributors
+
+| Names            	   | Link	                                                |
+|--------------------------| ---------------------------------------------------------- |
+| Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/johnneldine-abrahan)              |
+| Cueto, Daniel Isaaiah T. |  [@Daniel-Isaaiah](https://github.com/DanielIsaaiahCueto)  |
+| Platon, Art Cedrick C.   |  [@Art-Cedrick](https://github.com/Art-Cedrick)            | 
+| Dilag, Rod Vincent F.   |  [@Rod-Vincent](https://github.com/rdvncntdlg)            | 
+| Sanchez, Kim William B.  |  [@Kim-William](https://github.com/21-05298)               |
+
 
 
