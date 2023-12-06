@@ -47,9 +47,9 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 
 # 📋 Peer Evaluation
-| Names            	   | Link	                                                |
+| Names            	   | SR-Code	                                                |
 |--------------------------| ---------------------------------------------------------- |
-| Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/johnneldine-abrahan)              |
+| Abrahan, John Neldine M. |  21-02497@g.batstate-u.edu.ph             |
 | Cueto, Daniel Isaaiah T. |  [@Daniel-Isaaiah](https://github.com/DanielIsaaiahCueto)  |
 | Platon, Art Cedrick C.   |  [@Art-Cedrick](https://github.com/Art-Cedrick)            | 
 | Dilag, Rod Vincent F.   |  [@Rod-Vincent](https://github.com/rdvncntdlg)            | 
