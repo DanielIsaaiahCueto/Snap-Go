@@ -46,14 +46,14 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 
 # 📋 Peer Evaluation
-| Names            	   | SR-Code	                  | Grade         |Designation                                 |
-|--------------------------| -----------------------------|---------------|--------------------------------------------|
-| Abrahan, John Neldine M. |  21-02497@g.batstate-u.edu.ph|23.75%         | Front-End Developer / Researcher           |
-| Cueto, Daniel Isaaiah T. |  21-09622@g.batstate-u.edu.ph|23.75%         | Front-End Developer                        |
-| Dilag, Rod Vincent F.    |  21-05780@g.batstate-u.edu.ph|23.75%         | Back-End Developer / Database Administrator|
-| Platon, Art Cedrick C.   |  21-03309@g.batstate-u.edu.ph|5%             | Researcher                                 |
-| Sanchez, Kim William B.  |  21-05298@g.batstate-u.edu.ph|23.75%         | Front-End Developer                        |
-|                          |Total                         |100%           |                                            |
+| Names            	   | SR-Code	                  | Grade         |Designation                                 			|
+|--------------------------| -----------------------------|---------------|-------------------------------------------------------------|
+| Abrahan, John Neldine M. |  21-02497@g.batstate-u.edu.ph|23.75%         | Project Leader / Front-End Developer / Researcher           |
+| Cueto, Daniel Isaaiah T. |  21-09622@g.batstate-u.edu.ph|23.75%         | Front-End Developer                                         |
+| Dilag, Rod Vincent F.    |  21-05780@g.batstate-u.edu.ph|23.75%         | Back-End Developer / Database Administrator			|
+| Platon, Art Cedrick C.   |  21-03309@g.batstate-u.edu.ph|5%             | Researcher                                 			|
+| Sanchez, Kim William B.  |  21-05298@g.batstate-u.edu.ph|23.75%         | Front-End Developer                        			|
+|                          |Total                         |100%           |                                            			|
 
 # 📹 YouTube Video Link
 
