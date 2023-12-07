@@ -49,11 +49,11 @@ The group evaluated the system using the provided grading rubric, which resulted
 # 📋 Peer Evaluation
 | Names            	   | SR-Code	                  | Grade         |Designation          |
 |--------------------------| -----------------------------|---------------|---------------------|
-| Abrahan, John Neldine M. |  21-02497@g.batstate-u.edu.ph|100%           |                     |
-| Cueto, Daniel Isaaiah T. |  21-09622@g.batstate-u.edu.ph|100%           |                     |
-| Platon, Art Cedrick C.   |  21-03309@g.batstate-u.edu.ph|100%           |                     |
-| Dilag, Rod Vincent F.   |  21-05780@g.batstate-u.edu.ph |100%           |                     |
-| Sanchez, Kim William B.  |  21-05298@g.batstate-u.edu.ph|100%           |                     |
+| Abrahan, John Neldine M. |  21-02497@g.batstate-u.edu.ph|22.50%         |                     |
+| Cueto, Daniel Isaaiah T. |  21-09622@g.batstate-u.edu.ph|22.50%         |                     |
+| Dilag, Rod Vincent F.   |  21-05780@g.batstate-u.edu.ph |22.50%         |                     |
+| Platon, Art Cedrick C.   |  21-03309@g.batstate-u.edu.ph|10%            |                     |
+| Sanchez, Kim William B.  |  21-05298@g.batstate-u.edu.ph|22.50%         |                     |
 |                          |Total                         |100%           |                     |
 
 # 📹 YouTube Video Link
